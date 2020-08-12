@@ -9,6 +9,7 @@
     <Copyright>Copyright (c) 2020 Chris Dexter</Copyright>
     <RepositoryUrl>https://github.com/the-dext/CSharpWith</RepositoryUrl>
     <PackageIcon>icon.png</PackageIcon>
+    <PackageProjectUrl>https://github.com/the-dext/CSharpWith</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
