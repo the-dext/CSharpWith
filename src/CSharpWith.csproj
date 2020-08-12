@@ -11,7 +11,7 @@
     <PackageIcon>icon.png</PackageIcon>
     <PackageProjectUrl>https://github.com/the-dext/CSharpWith</PackageProjectUrl>
     <Authors>Chris Dexter</Authors>
-    <Company />
+    <Company>-</Company>
   </PropertyGroup>
 
   <ItemGroup>
