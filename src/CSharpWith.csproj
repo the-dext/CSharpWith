@@ -10,6 +10,8 @@
     <RepositoryUrl>https://github.com/the-dext/CSharpWith</RepositoryUrl>
     <PackageIcon>icon.png</PackageIcon>
     <PackageProjectUrl>https://github.com/the-dext/CSharpWith</PackageProjectUrl>
+    <Authors>Chris Dexter</Authors>
+    <Company />
   </PropertyGroup>
 
   <ItemGroup>
