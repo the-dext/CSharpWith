@@ -11,7 +11,7 @@ Finally if you need to get to the underlying value, you can do this by calling t
 
 There are a few different ways to use the library so here are some examples of using *With*....
 
-using CSharpWith;
+    using CSharpWith;
 
     // Using the extension method to wrap an object with a 'With' object
     person.With()
